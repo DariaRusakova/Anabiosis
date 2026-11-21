@@ -1,0 +1,32 @@
+{
+  "success": true,
+  "revision": "three-islands-1.2-native-materials",
+  "mesh_actors": 953,
+  "counts": {
+    "foundation": 51,
+    "ground": 363,
+    "paving": 87,
+    "rim": 84,
+    "terrace": 8,
+    "stairs": 12,
+    "arch": 22,
+    "column": 76,
+    "lintel": 16,
+    "cover": 46,
+    "facing": 28,
+    "rubble": 12,
+    "landmark": 4,
+    "bridge": 40,
+    "rail": 80,
+    "bridge_detail": 24
+  },
+  "source_asset_files": 41,
+  "grid_cell_cm": 50,
+  "character_radius_cm": 34,
+  "character_height_cm": 192,
+  "reachable_cells": 23494,
+  "required_destinations": 17,
+  "alternative_approach_checks": 8,
+  "layout_sha256": "3ee88bbd338bcaaf57825dc9e0f3ea3dbdf4dd6fddc9f25a22531a5bee2e51ec",
+  "scope": "Offline data and conservative route graph; UE/PIE not run"
+}

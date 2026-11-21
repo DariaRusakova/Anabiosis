@@ -1,0 +1,375 @@
+{
+  "layout_revision": "three-islands-1.2-native-materials",
+  "external_assets_downloaded": false,
+  "assets": [
+    {
+      "key": "cube",
+      "type": "mesh",
+      "asset": "/Game/LevelPrototyping/Meshes/SM_Cube",
+      "file": "Content/LevelPrototyping/Meshes/SM_Cube.uasset",
+      "sha256": "4680317a8c87f983e077f6c0a6b93ffaa0ba4dbddbc810960d4553e6ad380a89",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "slab",
+      "type": "mesh",
+      "asset": "/Game/LevelPrototyping/Meshes/SM_ChamferCube",
+      "file": "Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset",
+      "sha256": "b20a3ae9668ec599db519af3f84b67952d0e31ac4427b80ee812232edde91f53",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "crystal",
+      "type": "mesh",
+      "asset": "/Game/Models/crystal-stone-rock/source/Mesh",
+      "file": "Content/Models/crystal-stone-rock/source/Mesh.uasset",
+      "sha256": "c79afac4d24bb35450dd9bd7cb2deb12ad8f0d8811c2421d3386e8ed0d8fe6c6",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "arch",
+      "type": "mesh",
+      "asset": "/Game/Models/Arch/Mesh",
+      "file": "Content/Models/Arch/Mesh.uasset",
+      "sha256": "dab1cfe1eba2e18fba94348da1f0795beb45e85aa45433b3635dc1a20f13f1fb",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "pillar",
+      "type": "mesh",
+      "asset": "/Game/Models/column-pillar-gameready/source/pillar_lp",
+      "file": "Content/Models/column-pillar-gameready/source/pillar_lp.uasset",
+      "sha256": "927c3d4136bb45098966474c82249846a038c73ebfc5ee3a82124c7caad1cc0a",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "column",
+      "type": "mesh",
+      "asset": "/Game/Models/column/StaticMeshes/column",
+      "file": "Content/Models/column/StaticMeshes/column.uasset",
+      "sha256": "746812e3f39011208a66a8cb07497cb12a7b3281f51ba65f22f37eb4672a169d",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "dwarf",
+      "type": "mesh",
+      "asset": "/Game/Models/dwarf_dungeon_column/StaticMeshes/dwarf_dungeon_column",
+      "file": "Content/Models/dwarf_dungeon_column/StaticMeshes/dwarf_dungeon_column.uasset",
+      "sha256": "be4e2152b3069ec85334701f0eb0a1b1dd6754f9abec76192253c025b5d8a97c",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "stairs",
+      "type": "mesh",
+      "asset": "/Game/Models/flying-rock/medieval-staircase/source/Medieval_Staircase_LP_",
+      "file": "Content/Models/flying-rock/medieval-staircase/source/Medieval_Staircase_LP_.uasset",
+      "sha256": "f7794eda62e8214e08a965d2c2f5e0fb7c38f69238f89bcd4ca154de924f24ea",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "rock",
+      "type": "mesh",
+      "asset": "/Game/Models/stylized_rock/StaticMeshes/stylized_rock",
+      "file": "Content/Models/stylized_rock/StaticMeshes/stylized_rock.uasset",
+      "sha256": "afc86929d0571eb78f7d45714a7f5375e8a6416d5eb9e9865f6ad9574e57b83e",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "cliff",
+      "type": "mesh",
+      "asset": "/Game/Models/cliff-rock/cliff_rock1",
+      "file": "Content/Models/cliff-rock/cliff_rock1.uasset",
+      "sha256": "2a3c2acc4e0daf4d8daf6acf4fc7e3867714900a553a21293833c01d1337b3c7",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "lava",
+      "type": "mesh",
+      "asset": "/Game/Models/dark_rock_with_lava/StaticMeshes/dark_rock_with_lava",
+      "file": "Content/Models/dark_rock_with_lava/StaticMeshes/dark_rock_with_lava.uasset",
+      "sha256": "07e1512f229695b5b752fac3a34b2d234e8433738dc6e759832f6b1f6403b8fb",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "rock_big",
+      "type": "mesh",
+      "asset": "/Game/Models/rock_big/StaticMeshes/rock_big",
+      "file": "Content/Models/rock_big/StaticMeshes/rock_big.uasset",
+      "sha256": "d0048e44e6db2a126162b32548e133581b92c5003ed943cb5cbbe3d13ba4736c",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "rock_tower",
+      "type": "mesh",
+      "asset": "/Game/Models/rock_tower/StaticMeshes/rock_tower",
+      "file": "Content/Models/rock_tower/StaticMeshes/rock_tower.uasset",
+      "sha256": "c72a8db069794846f473d49b81722de420792746e65d5349a034b4f2e745b6cf",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "basalt",
+      "type": "mesh",
+      "asset": "/Game/Models/flying-rock/rock-basalt/source/ROCK",
+      "file": "Content/Models/flying-rock/rock-basalt/source/ROCK.uasset",
+      "sha256": "27ca4480e1d1b6c35d0667fabc9ae38d0e5f58ae581bdd9248d78c183d0f6877",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "ruined_arcade",
+      "type": "mesh",
+      "asset": "/Game/Models/Zyklus15_Zeile7/tripo_convert_5f703562-179e-46cc-bd64-f0f73a9ff39a",
+      "file": "Content/Models/Zyklus15_Zeile7/tripo_convert_5f703562-179e-46cc-bd64-f0f73a9ff39a.uasset",
+      "sha256": "3d2e0e165ae21a9b51fd9da7270a37d456249bc9dbfac7100f17f49eeb344dc0",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "stone",
+      "type": "texture",
+      "asset": "/Game/Models/fantasy-rock/Stylized_Rock/Rock_MAT_BaseColor",
+      "file": "Content/Models/fantasy-rock/Stylized_Rock/Rock_MAT_BaseColor.uasset",
+      "sha256": "46ed80ff640fb350e84fe1760934be52f7e49799cc1cc0e087591a4192df5594",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "stone_normal",
+      "type": "texture",
+      "asset": "/Game/Models/fantasy-rock/Stylized_Rock/Rock_MAT_Normal",
+      "file": "Content/Models/fantasy-rock/Stylized_Rock/Rock_MAT_Normal.uasset",
+      "sha256": "b9b814fd04da78803d60307c60105f6cb8d5fad91fd89011cbe3d40af3363c02",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "arch",
+      "type": "texture",
+      "asset": "/Game/Models/Arch/Arch_BaseColor",
+      "file": "Content/Models/Arch/Arch_BaseColor.uasset",
+      "sha256": "5efe5e0069f29efbed3d788857f5aa7dffeaff1cd1db1cc7834cfca7d230b904",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "arch_normal",
+      "type": "texture",
+      "asset": "/Game/Models/Arch/Arch_Normal",
+      "file": "Content/Models/Arch/Arch_Normal.uasset",
+      "sha256": "c6f41ac7d8a4ef1af6674779de2b0001e05330f031d237428f8c63267a293b46",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "stairs",
+      "type": "texture",
+      "asset": "/Game/Models/flying-rock/medieval-staircase/textures/Medieval_Staircase_LP__DefaultMaterial_Bas",
+      "file": "Content/Models/flying-rock/medieval-staircase/textures/Medieval_Staircase_LP__DefaultMaterial_Bas.uasset",
+      "sha256": "b71d56d4ba34cba327e0f8af6eed0916e90a10386008ce535a5c885ed8d485a1",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "stairs_normal",
+      "type": "texture",
+      "asset": "/Game/Models/flying-rock/medieval-staircase/textures/Medieval_Staircase_LP__DefaultMaterial_Nor",
+      "file": "Content/Models/flying-rock/medieval-staircase/textures/Medieval_Staircase_LP__DefaultMaterial_Nor.uasset",
+      "sha256": "bfbc22e03090841617172bee9d5fe6e4d99ffb04bc164e8c871bd6b1bc835e47",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "crystal",
+      "type": "texture",
+      "asset": "/Game/Models/crystal-stone-rock/textures/stone_low+_Stone_low_1_BaseColor",
+      "file": "Content/Models/crystal-stone-rock/textures/stone_low+_Stone_low_1_BaseColor.uasset",
+      "sha256": "25b52661ed06086b0062f269c12fa0942ece025e1d9213dc7e5d2529e37a118d",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "crystal_emissive",
+      "type": "texture",
+      "asset": "/Game/Models/crystal-stone-rock/textures/stone_low+_Stone_low_1_Emissive",
+      "file": "Content/Models/crystal-stone-rock/textures/stone_low+_Stone_low_1_Emissive.uasset",
+      "sha256": "4fbee8229fb93dd33ab271f9d2f8be2970390f2586ac85ae9ee33390100dd396",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "roughness",
+      "type": "arch_texture",
+      "asset": "/Game/Models/Arch/Arch_Roughness",
+      "file": "Content/Models/Arch/Arch_Roughness.uasset",
+      "sha256": "bd006713366464ce87a6f996b2fefde87c86d03643aab4a59bbc35dacf996afd",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "base_color",
+      "type": "pillar_texture",
+      "asset": "/Game/Models/column-pillar-gameready/textures/pillar_lp_DefaultMaterial_BaseColor",
+      "file": "Content/Models/column-pillar-gameready/textures/pillar_lp_DefaultMaterial_BaseColor.uasset",
+      "sha256": "7b34c42076c1de75e389e6364824a6e29a2db095636d415a03a91336098b3e1c",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "normal",
+      "type": "pillar_texture",
+      "asset": "/Game/Models/column-pillar-gameready/textures/testinormal1",
+      "file": "Content/Models/column-pillar-gameready/textures/testinormal1.uasset",
+      "sha256": "f92277a42d9f2c7ea50a35dfc3f5a3aa522ed88b8f7da7e6a2ac766d1633c13d",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "roughness",
+      "type": "pillar_texture",
+      "asset": "/Game/Models/column-pillar-gameready/textures/pillar_lp_DefaultMaterial_Roughness",
+      "file": "Content/Models/column-pillar-gameready/textures/pillar_lp_DefaultMaterial_Roughness.uasset",
+      "sha256": "52b1442b87d18a3f4405cca171e9690d80a626984e127219ddcdecf3806dac9b",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "metallic",
+      "type": "pillar_texture",
+      "asset": "/Game/Models/column-pillar-gameready/textures/pillar_lp_DefaultMaterial_Metallic",
+      "file": "Content/Models/column-pillar-gameready/textures/pillar_lp_DefaultMaterial_Metallic.uasset",
+      "sha256": "f4f6d57921d3e7579a5ede8c9b1bb61c24e2b78761a3954a41e4e60b33fba657",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "ao",
+      "type": "pillar_texture",
+      "asset": "/Game/Models/column-pillar-gameready/textures/pillar_lp_DefaultMaterial_cavity",
+      "file": "Content/Models/column-pillar-gameready/textures/pillar_lp_DefaultMaterial_cavity.uasset",
+      "sha256": "743a1250f306bd19c656518375675abcd44aaaa25c2f0e8cabf56c44cdfbf5e8",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "roughness",
+      "type": "stairs_texture",
+      "asset": "/Game/Models/flying-rock/medieval-staircase/textures/Medieval_Staircase_LP__DefaultMaterial_Rou",
+      "file": "Content/Models/flying-rock/medieval-staircase/textures/Medieval_Staircase_LP__DefaultMaterial_Rou.uasset",
+      "sha256": "f70553aaf22edc034314d16e99ee31239dd490cb0fc1c47108a4afed4c77943f",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "ao",
+      "type": "stairs_texture",
+      "asset": "/Game/Models/flying-rock/medieval-staircase/textures/AO",
+      "file": "Content/Models/flying-rock/medieval-staircase/textures/AO.uasset",
+      "sha256": "fbd3acadd2def730a5fae8079761a4c555626338f9fb9f4f6760cf58de24774d",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "base_color",
+      "type": "cliff_texture",
+      "asset": "/Game/Models/cliff-rock/textures/rock2_BC",
+      "file": "Content/Models/cliff-rock/textures/rock2_BC.uasset",
+      "sha256": "4cdad9cbb5725a8aea434f3f0f7163ba3f04223d0877b62edfafa856d5e92fd0",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "normal",
+      "type": "cliff_texture",
+      "asset": "/Game/Models/cliff-rock/textures/rock2_N",
+      "file": "Content/Models/cliff-rock/textures/rock2_N.uasset",
+      "sha256": "32bd2d7654f37be86e9971e287bc58f394bab1f71661990aee4794ca63490ee0",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "orm",
+      "type": "cliff_texture",
+      "asset": "/Game/Models/cliff-rock/textures/rock2_ORM",
+      "file": "Content/Models/cliff-rock/textures/rock2_ORM.uasset",
+      "sha256": "68effcbdd77a86402c56055e863b0b10636d25fce9ce2c064df1279e07d23a70",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "normal",
+      "type": "crystal_texture",
+      "asset": "/Game/Models/crystal-stone-rock/textures/stone_low+_Stone_low_1_Normal",
+      "file": "Content/Models/crystal-stone-rock/textures/stone_low+_Stone_low_1_Normal.uasset",
+      "sha256": "3dd86c56a290070648eea147bd2629c1042c8a92afa6f0917a06891ea3a76abe",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "roughness",
+      "type": "crystal_texture",
+      "asset": "/Game/Models/crystal-stone-rock/textures/stone_low+_Stone_low_1_Roughness",
+      "file": "Content/Models/crystal-stone-rock/textures/stone_low+_Stone_low_1_Roughness.uasset",
+      "sha256": "11963f173b269f5050312bac5cbef6931fb8b92ae9a81f3088367ff3e25766ee",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "metallic",
+      "type": "crystal_texture",
+      "asset": "/Game/Models/crystal-stone-rock/textures/stone_low+_Stone_low_1_Metallic",
+      "file": "Content/Models/crystal-stone-rock/textures/stone_low+_Stone_low_1_Metallic.uasset",
+      "sha256": "83ac4e73cbc007fd3b12cca5a5828633b8fa8412e6264c3539b31bb5b0d78ea3",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "ao",
+      "type": "crystal_texture",
+      "asset": "/Game/Models/crystal-stone-rock/textures/stone_low+_Stone_low_1_AO",
+      "file": "Content/Models/crystal-stone-rock/textures/stone_low+_Stone_low_1_AO.uasset",
+      "sha256": "87acb233ecbeb79089f1be4e6b613a1a3814948d40c6768d8afae596827a9e94",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "base_color",
+      "type": "basalt_texture",
+      "asset": "/Game/Models/flying-rock/rock-basalt/textures/ROCK_LOW_MESH_Material_003_BaseColor",
+      "file": "Content/Models/flying-rock/rock-basalt/textures/ROCK_LOW_MESH_Material_003_BaseColor.uasset",
+      "sha256": "cd2e74541906722153fa73f1f50290d12565a270f78cd6612e7dd03fd233543b",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "normal",
+      "type": "basalt_texture",
+      "asset": "/Game/Models/flying-rock/rock-basalt/textures/ROCK_LOW_MESH_Material_003_Normal",
+      "file": "Content/Models/flying-rock/rock-basalt/textures/ROCK_LOW_MESH_Material_003_Normal.uasset",
+      "sha256": "7f675d5f8bce26ff514b0b31a9d6fc84bf68eff9945ba823c8bf2cd6939a3b41",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    },
+    {
+      "key": "roughness",
+      "type": "basalt_texture",
+      "asset": "/Game/Models/flying-rock/rock-basalt/textures/ROCK_LOW_MESH_Material_003_Roughness",
+      "file": "Content/Models/flying-rock/rock-basalt/textures/ROCK_LOW_MESH_Material_003_Roughness.uasset",
+      "sha256": "93519451c6b2c3e365e67e983d05558a5742b79ca59a8412ea5fb4a36048a9b0",
+      "origin": "Existing user project",
+      "license": "Existing asset terms; not independently audited; no redistribution added"
+    }
+  ]
+}
