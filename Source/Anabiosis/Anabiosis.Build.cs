@@ -14,6 +14,7 @@ public class Anabiosis : ModuleRules
 			"Engine",
 			"InputCore",
 			"EnhancedInput",
+			"AnimGraphRuntime",
 			"AIModule",
 			"StateTreeModule",
 			"GameplayStateTreeModule",

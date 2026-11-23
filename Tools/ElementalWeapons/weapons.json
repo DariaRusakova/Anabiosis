@@ -1,0 +1,175 @@
+{
+  "version": 1,
+  "units": "cm",
+  "forward": "+X",
+  "up": "+Z",
+  "weapons": [
+    {
+      "id": "flamethrower",
+      "mesh_file": "Tools/ElementalWeapons/Prepared/SM_Flamethrower.fbx",
+      "dimensions_cm": [
+        90.0,
+        13.382583618164062,
+        30.17936897277832
+      ],
+      "bounds_min_cm": [
+        -5.557155609130859,
+        -6.691298007965088,
+        -27.95250701904297
+      ],
+      "bounds_max_cm": [
+        84.44284057617188,
+        6.691286087036133,
+        2.2268614768981934
+      ],
+      "muzzle_cm": [
+        83.94284057617188,
+        -6.545588803419378e-06,
+        -9.928105354309082
+      ],
+      "textures": {
+        "base_color": "Content/Models/flamethrower/textures/Flamethrower_BaseColor.png",
+        "normal": "Content/Models/flamethrower/textures/Flamethrower_Normal.png",
+        "roughness": "Content/Models/flamethrower/textures/Flamethrower_Roughness.png",
+        "metallic": "Content/Models/flamethrower/textures/Flamethrower_Metallic.png",
+        "ao": "Content/Models/flamethrower/textures/Flamethrower_AO.png",
+        "flame": "Content/Models/flamethrower/textures/Flamethrower_Flame.png"
+      },
+      "flip_normal_green": false,
+      "right_hand_cm": [
+        -4.0,
+        0.0,
+        -2.0
+      ],
+      "left_hand_cm": [
+        21.0,
+        -5.0,
+        -11.0
+      ],
+      "hip_location_cm": [
+        25.0,
+        15.0,
+        -18.0
+      ],
+      "aim_location_cm": [
+        25.0,
+        8.0,
+        9.928105354309082
+      ],
+      "hip_rotation": [
+        -3.0,
+        -3.0,
+        0.0
+      ],
+      "aim_rotation": [
+        0.0,
+        -3.0,
+        0.0
+      ],
+      "hold_pose": "/Game/Characters/Mannequins/Anims/Rifle/MF_Rifle_Idle_ADS",
+      "attack_pose": "/Game/Characters/Mannequins/Anims/Rifle/MM_Rifle_Fire"
+    },
+    {
+      "id": "water_pistol",
+      "mesh_file": "Tools/ElementalWeapons/Prepared/SM_WaterPistol.fbx",
+      "dimensions_cm": [
+        34.999996185302734,
+        4.833154201507568,
+        23.39332389831543
+      ],
+      "bounds_min_cm": [
+        -6.0590105056762695,
+        -2.416577100753784,
+        -7.685235023498535
+      ],
+      "bounds_max_cm": [
+        28.94098663330078,
+        2.416577100753784,
+        15.708088874816895
+      ],
+      "muzzle_cm": [
+        28.440988540649414,
+        0.0,
+        8.660435676574707
+      ],
+      "textures": {
+        "base_color": "Tools/ElementalWeapons/Prepared/WaterPistol_base_color.jpg",
+        "orm": "Tools/ElementalWeapons/Prepared/WaterPistol_orm.png",
+        "normal": "Tools/ElementalWeapons/Prepared/WaterPistol_normal.png"
+      },
+      "flip_normal_green": true,
+      "right_hand_cm": [
+        -4.0,
+        0.0,
+        -2.0
+      ],
+      "left_hand_cm": [
+        5.0,
+        -3.5,
+        0.0
+      ],
+      "hip_location_cm": [
+        25.0,
+        15.0,
+        -18.0
+      ],
+      "aim_location_cm": [
+        28.0,
+        0.0,
+        -9.660435676574707
+      ],
+      "hip_rotation": [
+        -3.0,
+        -3.0,
+        0.0
+      ],
+      "aim_rotation": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "hold_pose": "/Game/Characters/Mannequins/Anims/Pistol/MF_Pistol_Idle_ADS",
+      "attack_pose": "/Game/Characters/Mannequins/Anims/Pistol/MM_Pistol_Fire"
+    }
+  ],
+  "source_files": [
+    {
+      "file": "Content/Models/flamethrower/source/Flamethrower.zip",
+      "sha256": "c181388c78675afec18f57842c9abf389f217e4500894b98f8f04cca97773905"
+    },
+    {
+      "file": "Content/Models/sci-fi_pistol.glb",
+      "sha256": "a1bf9ba4d5f40573dd5e6fb6c21160ee6688bd49a2c3894766f6a69526c5844e"
+    },
+    {
+      "file": "Content/Models/flamethrower/textures/Flamethrower_BaseColor.png",
+      "sha256": "833e9c7ffcb121d2e8c47d2ed0ead4adf0f73937d6b7479e2133482b6b25df4c"
+    },
+    {
+      "file": "Content/Models/flamethrower/textures/Flamethrower_Normal.png",
+      "sha256": "2e36d1091b396c5984be3fc9b6433af2354d6523e3a542cb1a0403cedb903555"
+    },
+    {
+      "file": "Content/Models/flamethrower/textures/Flamethrower_Roughness.png",
+      "sha256": "55bbc4c12de72f3ea0efaaca7a7c8d15744af15e43f382abffcde7bbc9d5df38"
+    },
+    {
+      "file": "Content/Models/flamethrower/textures/Flamethrower_Metallic.png",
+      "sha256": "9ba1bc2ed0a765959d956f1a2d38cfae853dcb7f6d68a2e5761c768570827df8"
+    },
+    {
+      "file": "Content/Models/flamethrower/textures/Flamethrower_AO.png",
+      "sha256": "55711e725a17ac4dd0475ec08bb420b7c3b103e5f07a4675e1d0ffb37effe8ea"
+    },
+    {
+      "file": "Content/Models/flamethrower/textures/Flamethrower_Flame.png",
+      "sha256": "cf3054511e97911bccace31f7698e5fb3572543eca619b78fc57d0e0fa876128"
+    }
+  ],
+  "water_pistol_attribution": {
+    "author": "Konstantin Lavrenov (https://sketchfab.com/arttopperfx)",
+    "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+    "source": "https://sketchfab.com/3d-models/sci-fi-pistol-f117490351bd4bbb944319b7eb09455f",
+    "title": "Sci-fi Pistol"
+  }
+}
